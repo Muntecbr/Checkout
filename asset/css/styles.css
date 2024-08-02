@@ -1,5 +1,5 @@
 .primary_color {
-  color: #000000;
+  color: #660099;
 }
 
 .on_surface_color {
@@ -494,7 +494,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  color: #1e1e1e;
+  color: #660099;
 }
 
 button {
@@ -511,7 +511,7 @@ input[type=submit] {
   font-size: 16px;
   line-height: 24px;
   background-color: #ffffff;
-  border: 1px solid #000000;
+  border: 1px solid #660099;
   color: #ffffff;
   text-transform: capitalize;
   text-align: center;
@@ -524,8 +524,8 @@ input[type=submit] {
 }
 
 button:hover {
-  color: #000000;
-  border-color: #000000;
+  color: #660099;
+  border-color: #660099;
   background-color: #ffffff;
 }
 
@@ -976,12 +976,12 @@ textarea.form-textarea[rows] {
   border-radius: 8px;
 }
 .tf-btn.accent {
-  background-color: #000000;
-  border: 1px solid #000000;
+  background-color: #660099;
+  border: 1px solid #660099;
   color: #ffffff;
 }
 .tf-btn.accent:hover {
-  color: #000000;
+  color: #660099;
   background-color: #ffffff;
 }
 .tf-btn.secondary {
@@ -4573,7 +4573,7 @@ textarea.form-textarea[rows] {
 }
 
 .panel-sidebar .header-sidebar {
-  background-color: #000000;
+  background-color: #660099;
 }
 .panel-sidebar .header-sidebar .sidebar-logo {
   display: flex;
